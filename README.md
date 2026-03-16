@@ -8,6 +8,7 @@ In 2024, John Hopfield and Geoffrey Hinton were awarded the Nobel Prize in Physi
 
 - **[Lab Handout (PDF)](lab_hopfield.pdf)** — Student-facing lab assignment with 6 progressive parts ([LaTeX source](lab_hopfield.tex))
 - **[Lecture Video](https://youtu.be/mAL8Y4b5U1U)** — 10-minute video introduction to Hopfield Networks for CS1 students
+- **[Lecture Slides (PDF)](slides.pdf)** — Presentation slides used in class ([LaTeX source](slides.tex))
 - **[Lecture Summary](lecture_summary.md)** — Written notes covering energy functions, memory storage, and Hebbian learning
 
 ## Further Reading
